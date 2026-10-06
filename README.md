@@ -11,7 +11,7 @@
 
 Run on 2026-10-02. The local models ran one at a time on one Apple-silicon Mac. Only the `model` field differs between runs, and every request body that was sent is in `results/requests-*.jsonl`.
 
-📺 Video walkthrough: *(link)*
+📺 Video walkthrough: [I Tried to Fool 4 AI Decision Models With 1000 Trick Questions](https://www.youtube.com/watch?v=3O2gIeTrn9g)
 
 ## Results
 
